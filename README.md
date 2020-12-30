@@ -1,3 +1,3 @@
 # project-test
 
-A project to test my skills in web development
+Different projects I have worked on using HTML, CSS and JS
